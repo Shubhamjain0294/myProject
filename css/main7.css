@@ -675,6 +675,13 @@ margin-top:0px;
 
 /*.borderbottom{border-bottom: 2px solid #efefef;}*/
 
+.carousel-indicators li{
+    background-color:grey;
+}
+
+.carousel-indicators .active li{
+    background-color: #2f4f4f;
+}
 
 
 .navbar-default .navbar-brand{
