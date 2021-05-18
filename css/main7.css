@@ -443,13 +443,13 @@ transition: all .6s ease-in-out;
 
 .contactcntrl{
     padding:100px;
-    background-color:white;
+    background-color:#799f97;
     margin-right:0px;
 }
 
 
 .formcntrl{
-    background-color: #fff;
+    background-color: #62827b;
 
     padding-bottom:20px;
     /*border-left: 1px solid #2f4f4f;
@@ -458,7 +458,7 @@ transition: all .6s ease-in-out;
 }
 
 .contactcntrl2{
-    background-color:white;
+    background-color:#799f97;
     padding-right: 310px;
     border-right: 1px solid darkgrey;
 }
